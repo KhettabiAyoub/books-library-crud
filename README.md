@@ -74,6 +74,18 @@ https://youtu.be/xomYjQ-ol08
 
 <h2>🖼️ Screenshots</h2>
 
+  
+
+  📘 Main Page
+![Main Page](images/main-page.png)
+
+  ➕ Add Book Page
+![Add Book](images/add-book.png)
+
+  🔌 API JSON Response
+![API](images/api.png)
+
+
 <h2>📦 Project Structure</h2>
 
 
